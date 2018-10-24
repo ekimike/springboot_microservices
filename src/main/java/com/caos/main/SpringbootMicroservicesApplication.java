@@ -29,4 +29,5 @@ public class SpringbootMicroservicesApplication {
 		messageSource.setBasename("messages");
 		return messageSource;
 	}
+	
 }
